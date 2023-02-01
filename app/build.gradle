@@ -9,8 +9,8 @@ android {
 	
 	defaultConfig {
 		applicationId "com.protecgames.htmleditor"
-		minSdkVersion 21
-		targetSdkVersion 28
+		minSdkVersion 23
+		targetSdkVersion 33
 		versionCode 24
 		versionName "6.2.2"
 	}
